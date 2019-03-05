@@ -1,6 +1,6 @@
 # replace_combinations
 
-Task: Create a function that replaces N number of question mark in a given bit string with 1 & 0 output and results a matrix with all possible combination of such replacement. 
+Task: Create a function that replaces N number of question mark in a given bit string with 1 & 0 and outputs a matrix with all possible combination of such replacement. 
 
 Example - 
 for input bit string - '11?0?'
