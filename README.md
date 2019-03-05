@@ -13,6 +13,6 @@ row4 - "1"  "1"  "1"  "0"  "1"
 Solution: 
 The first function "create_combinations" will create a user defined 'N' number of combinations of 0 and 1
 
-The second function "replace_question_mark" replace the question mark in user defined bit string with N number of combination of and 1 for each question mark in the bit string. 
+The second function "replace_question_mark" will replace the question mark in the user defined bit string with N number of combination of 0 and 1 for each question mark in that bit string. 
 
 
